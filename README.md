@@ -3,7 +3,12 @@ Design and development of a robust 4-DoF robotic arm from scratch. The project c
 
 <img src="./images/cover.jpg" style="height: 40%; width: 40%;"/>
 
+
+https://github.com/user-attachments/assets/4173b745-335a-4195-bacb-a597abe81b60
+
+
 General specs:
+
  - 4 links powered by brushed DC planetery gear motors
  - Maximum payload of 350 g
  - Reach of up to 80 cm
