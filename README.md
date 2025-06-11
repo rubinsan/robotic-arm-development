@@ -1,6 +1,10 @@
 # robotic-arm-development
 Design and development of a robust 4-DoF robotic arm from scratch. The project covers both HW and SW implementations and was carried out during my days in the RoboticsLab of the UC3M of Madrid.
 
+<p align="center">
+  <img width="640" height="352" src="./output.gif">
+</p>
+
 <img src="./images/cover.jpg" style="height: 40%; width: 40%;"/>
 
 
