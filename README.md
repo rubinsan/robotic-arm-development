@@ -26,6 +26,16 @@ On the left side, and using the capabilities of the arm, it was also possible to
 
 <a href="https://youtu.be/iZUxTX9gKQQ">
 <img src="./images/init.png" style="height: 42%; width: 42%;"/></>
+</a>
 
 <a href="https://youtu.be/L_XmpxMjzE8">
 <img src="./images/manipulator.png" style="height: 39%; width: 39%;"/></>
+</a>
+
+## Authors
+
+* **Ruben Sanchez** - [rubinsan](https://github.com/rubinsan)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
