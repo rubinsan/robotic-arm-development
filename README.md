@@ -16,9 +16,9 @@ General specs:
 
 The main objective was to develop a reliable and low-cost robotic arm capable of manipulating everyday objects such as soda cans, smartphones, small bottles, etc. Several control algorithms were implemented, including direct and inverse kinematics, low-level motor controllers, an initialization sequence, and communication with ROS via USB. All of this software was designed to run on the microcontroller and be driven by a high-level ROS control system.
 
-A MATLAB script was used to test and assess the derived equations and kinematics algorithms before coding them into the microcontroller.
+A matlab script was used to test and assess the derived equations and kinematics algorithms before coding them into the microcontroller.
 
-In the left video, you can see the initialization algorithm (necessary to obtain absolute axis positions) followed by linear movements of the gripper during a test run.
+In the left VIDEO, you can see the initialization algorithm (necessary to obtain absolute axis positions) followed by linear movements of the gripper during a test run.
 On the left side, and using the capabilities of the arm, it was also possible to build a mobile manipulator using a Turtlebot base. You can see a demo here.
 
 <a href="https://youtu.be/iZUxTX9gKQQ">
