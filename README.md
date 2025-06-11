@@ -18,6 +18,9 @@ The main objective was to develop a reliable and low-cost robotic arm capable of
 
 A matlab script was used to test and assess the derived equations and kinematics algorithms before coding them into the microcontroller.
 
+You can find more info about HW componentes and development in the next link:
+https://www.hackster.io/rubinsan/robotic-arm-development-from-scratch-4b2db1
+
 In the left VIDEO, you can see the initialization algorithm (necessary to obtain absolute axis positions) followed by linear movements of the gripper during a test run.
 On the left side, and using the capabilities of the arm, it was also possible to build a mobile manipulator using a Turtlebot base. You can see a demo here.
 
@@ -26,7 +29,3 @@ On the left side, and using the capabilities of the arm, it was also possible to
 
 <a href="https://youtu.be/L_XmpxMjzE8">
 <img src="./images/manipulator.png" style="height: 39%; width: 39%;"/></>
-
-
-
-
