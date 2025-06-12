@@ -1,27 +1,28 @@
 # robotic-arm-development
 Design and development of a robust 4-DoF robotic arm from scratch. The project covers both HW and SW implementations and was carried out during my days in the RoboticsLab of the UC3M of Madrid.
 
-<p align="center">
-  <img width="640" height="352" src="./output.gif">
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="images/output.gif" width="250"/>
+    </td>
+    <td>
 
-<img src="./images/cover.jpg" style="height: 40%; width: 40%;"/>
+<strong>General specs:</strong>
 
+- 4 links powered by brushed DC planetary gear motors  
+- Maximum payload of 350 g  
+- Reach of up to 80 cm  
+- Total weight of 6.5 kg  
+- Maximum power consumption 80 W  
+- 12V Li-Po battery (autonomy not tested)  
+- 32-bit ARM core processing unit (Arduino Due as an SCB)  
+- RealSense D435 depth camera for manipulation purposes attached to the gripper  
+- 300 mm base footprint  
 
-https://github.com/user-attachments/assets/4173b745-335a-4195-bacb-a597abe81b60
-
-
-General specs:
-
- - 4 links powered by brushed DC planetery gear motors
- - Maximum payload of 350 g
- - Reach of up to 80 cm
- - Total weight of 6.5 kg
- - Maximum power consumption 80 W
- - 12V Li-Po battery (autonomy not tested)
- - 32-bit ARM core processing unit (Arduino Due as a SCB)
- - RealSense D435 depth camera for manipulation purposes attached to the gripper
- - 300 mm base footprint
+    </td>
+  </tr>
+</table>
 
 The main objective was to develop a reliable and low-cost robotic arm capable of manipulating everyday objects such as soda cans, smartphones, small bottles, etc. Several control algorithms were implemented, including direct and inverse kinematics, low-level motor controllers, an initialization sequence, and communication with ROS via USB. All of this software was designed to run on the microcontroller and be driven by a high-level ROS control system.
 
