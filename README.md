@@ -4,7 +4,7 @@ Design and development of a robust 4-DoF robotic arm from scratch. The project c
 <table>
   <tr>
     <td>
-      <img src="images/output.gif" width="250"/>
+      <img src="media/Inv_Kinema.gif" width="250"/>
     </td>
     <td>
 
@@ -33,6 +33,10 @@ https://www.hackster.io/rubinsan/robotic-arm-development-from-scratch-4b2db1
 
 In the left VIDEO, you can see the initialization algorithm (necessary to obtain absolute axis positions) followed by linear movements of the gripper during a test run.
 On the left side, and using the capabilities of the arm, it was also possible to build a mobile manipulator using a Turtlebot base. You can see a demo here.
+
+<p align="center">
+  <img src="gifs/demo_mob2.gif">
+</p>
 
 <a href="https://youtu.be/iZUxTX9gKQQ">
 <img src="./images/init.png" style="height: 42%; width: 42%;"/></>
