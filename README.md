@@ -38,7 +38,7 @@ Additionally, by leveraging the capabilities of the arm, it was also possible to
   <img src="gifs/demo_mob2.gif">
 </p>
 
-Complete and HD videos:
+Full length and quality videos:
 https://youtu.be/iZUxTX9gKQQ
 https://youtu.be/L_XmpxMjzE8
 
